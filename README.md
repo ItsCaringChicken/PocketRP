@@ -16,7 +16,6 @@
 	<br>
 </p>
 
-<h3 align="center">Credits</h3>
-
-<p align="center">Our Team:</p>
+<h3 align="center">Our Team:</h3>
+	
 </p>
