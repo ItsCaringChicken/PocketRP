@@ -5,7 +5,7 @@
 	</a>
 </p>
 
-<h1 align="center">PocketRP <a href="#">Website</a></h1>
+<h1 align="center">PocketRP <a href="https://pocketrp.vercel.app/">Website</a></h1>
 <h3 align="center">Car Roleplaying Game!</h3>
 <p align="center">Drive around and Roleplay with your friends in PocketRP!</p>
 
