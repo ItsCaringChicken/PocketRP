@@ -17,5 +17,5 @@
 </p>
 
 <h3 align="center">Our Team:</h3>
-	<p>This is going to be added later.</p>
+	<p align="center">This is going to be added later.</p>
 </p>
